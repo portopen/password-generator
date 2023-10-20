@@ -2,7 +2,7 @@
 A simple and secure password generator written in Python and Tkinter.
 
 The password generator I have created forces the user to include uppercase letters, lowercase letters and numbers at a
-minimum. This is forced upon the user to provide a strong password. The minimum length of a password is set to twelve, as this
+minimum to provide a strong password. The minimum length of a password is set to twelve, as this
 was the minimum recommendation as of the year 2022 (guided by the research done by hivesystems.io). It is strongly recommended
 that the user select a password length greater than this in order to future proof their password for the coming years. The user also has the choice to include
 special characters by selecting a checkbox. This improves the complexity and strength of the password.
