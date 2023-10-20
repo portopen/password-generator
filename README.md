@@ -1,5 +1,5 @@
 # password-generator
-A simple and secure password generator written in Python.
+A simple and secure password generator written in Python and Tkinter.
 
 The password generator I have created forces the user to include uppercase letters, lowercase letters and numbers at a
 minimum. This is forced upon the user to provide a strong password. The minimum length of a password is set to twelve, as this
