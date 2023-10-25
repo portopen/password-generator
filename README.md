@@ -1,5 +1,5 @@
 # password-generator
-A simple and secure password generator written in Python and Tkinter.
+A simple and secure random password generator written in Python and Tkinter.
 
 The password generator I have created forces the user to include uppercase letters, lowercase letters and numbers at a
 minimum to provide a strong password. The minimum length of a password is set to twelve, as this
@@ -13,7 +13,7 @@ with a minimum length of thirteen characters and include uppercase letters, lowe
 Based on the above recommendation, it would take a hacker three thousand years to brute force your password (in the year 2023).
 To future proof your password for the coming years, it is advisable to increase the length of your password beyond the suggested
 minimum recommendation. My password recommendations are based on the findings from hivesystems.io.
-Please visit https://www.hivesystems.io/blog/are-your-passwords-in-the-green? for up-to-date information on password strength and length.
+Please visit https://www.hivesystems.io/blog/are-your-passwords-in-the-green for up-to-date information on password strength and length.
 I have no affiliation with hivesystems.io. They are just a good resource.
 
 I hope you enjoy my application.
